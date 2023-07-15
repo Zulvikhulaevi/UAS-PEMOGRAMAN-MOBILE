@@ -1,4 +1,5 @@
 # Tampilan Halaman Aplikasi
+Tugas ini saya buat untuk memenuhi uas mata kuliah pemograman mobile, saya membuat aplilkasi penjualan toko online handphone
 
 ![WhatsApp Image 2023-07-15 at 14 45 14](https://github.com/Zulvikhulaevi/UAS-PEMOGRAMAN-MOBILE/assets/121736425/39ddefb0-f330-4c08-ba14-50a95f42cdf8)
 ![WhatsApp Image 2023-07-15 at 14 45 25](https://github.com/Zulvikhulaevi/UAS-PEMOGRAMAN-MOBILE/assets/121736425/167b532b-5c53-402a-a761-01d0acad687b)
